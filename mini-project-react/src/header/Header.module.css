@@ -1,0 +1,26 @@
+.navHeader {
+  height: 10%;
+  background-color: #7fb77e;
+  width: 100%;
+  margin: 0;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.navUl {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  margin: 0;
+  list-style: none;
+  cursor: pointer;
+}
+
+.link {
+  color: #f7f6dc;
+}
+
+.link:hover {
+  color: #ffc090;
+}
